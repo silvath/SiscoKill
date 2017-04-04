@@ -18,6 +18,5 @@ C:\GitHub\SiscoKill\src\SiscoKill\obj\Release\SiscoKill.exe
 C:\GitHub\SiscoKill\src\SiscoKill\obj\Release\SiscoKill.pdb
 C:\GitHub\SiscoKill\src\SiscoKill\bin\Release\SiscoKill.exe
 C:\GitHub\SiscoKill\src\SiscoKill\bin\Release\SiscoKill.pdb
-C:\GitHub\SiscoKill\src\SiscoKill\obj\Release\SiscoKill.csprojResolveAssemblyReference.cache
 C:\GitHub\SiscoKill\src\SiscoKill\obj\Release\SiscoKill.SoapDictionary.resources
 C:\GitHub\SiscoKill\src\SiscoKill\obj\Release\SiscoKill.csproj.GenerateResource.Cache
