@@ -2,5 +2,6 @@
 *.user
 _ReSharper.*
 bin
+!bin/Release/*.exe
 obj
 packages
