@@ -1,0 +1,8 @@
+C:\Files\Projects\SiscoKill\SiscoKill\bin\Debug\SiscoKill.exe.config
+C:\Files\Projects\SiscoKill\SiscoKill\bin\Debug\SiscoKill.exe
+C:\Files\Projects\SiscoKill\SiscoKill\bin\Debug\SiscoKill.pdb
+C:\Files\Projects\SiscoKill\SiscoKill\obj\Debug\SiscoKill.csprojResolveAssemblyReference.cache
+C:\Files\Projects\SiscoKill\SiscoKill\obj\Debug\SiscoKill.exe
+C:\Files\Projects\SiscoKill\SiscoKill\obj\Debug\SiscoKill.pdb
+C:\Files\Projects\SiscoKill\SiscoKill\obj\Debug\SiscoKill.SoapDictionary.resources
+C:\Files\Projects\SiscoKill\SiscoKill\obj\Debug\SiscoKill.csproj.GenerateResource.Cache
